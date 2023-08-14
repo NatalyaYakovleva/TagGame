@@ -1,0 +1,10 @@
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\bin\Debug\SimplePuzzleGame.exe.config
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\bin\Debug\SimplePuzzleGame.exe
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\bin\Debug\SimplePuzzleGame.pdb
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.Form1.resources
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.Properties.Resources.resources
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.csproj.GenerateResource.cache
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.exe
+E:\VisualStudioCommunity\WinForm\Пятнашки\SimplePuzzleGame\SimplePuzzleGame\obj\Debug\SimplePuzzleGame.pdb
